@@ -94,4 +94,4 @@ In this course you will apply various Data Analytics skills and techniques that 
 <img src="/certificate/IBM%20Data%20Analyst%20Capstone%20Project-1.png" width=60% height=60%>
 
 ---
-<p>&copy; 2021 Leah Nguyen</p>
+
