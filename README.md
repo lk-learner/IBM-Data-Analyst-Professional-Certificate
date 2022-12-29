@@ -64,35 +64,35 @@ This course is designed to provide you with basic working knowledge for using Ex
 <img src="/certificate/Excel%20Basic%20for%20Data%20Analysis-1.png" width=60% height=60%>
 
 
-- [X] [__Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos)
+- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos)
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
 <p align="center">
 <img src="/certificate/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos-1.png" width=60% height=60%>
 
-- [x] [__Python for Data Science and AI__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+- [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
 <p align="center">
 <img src="/certificate/Python%20for%20AI%2C%20Data%20Science%20Development-1.png" width=60% height=60%>
 
-- [X] [__Python Project for Data Science__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Python%20Project%20for%20Data%20Science)
+- [X] [__Course-5 : Python Project for Data Science__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Python%20Project%20for%20Data%20Science)
 
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
 
 <p align="center">
 <img src="/certificate/Python%20Project%20for%20Data%20Science%20AI-1.png" width=60% height=60%>
 
-- [x] [__Databases and SQL for Data Science__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+- [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
 <p align="center">
 <img src="/certificate/Database%20SQL%20Data%20Science-1.png" width=60% height=60%>
 
-- [x] [__Data Analysis with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Analysis%20With%20Python)
+- [x] [__Course-7 : Data Analysis with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Analysis%20With%20Python)
 
 Learn how to analyze data using Python. Topics covered:
 
@@ -106,14 +106,14 @@ Learn how to analyze data using Python. Topics covered:
 <p align="center">
 <img src="/certificate/Data%20Analysis%20with%20Python-1.png" width=60% height=60%>
 
-- [x] [__Data Visualization with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20with%20Python)
+- [x] [__Course-8 : Data Visualization with Python__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20with%20Python)
 
 The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
 
 <p align="center">
 <img src="/certificate/Data%20Visualization%20with%20Python-1.png" width=60% height=60%>
 
-- [x] [__IBM Data Analyst Capstone Project__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Analyst%20Capstone%20Project)
+- [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/ndleah/IBM-Data-Analyst-Professional/tree/main/Data%20Analyst%20Capstone%20Project)
 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
