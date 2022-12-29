@@ -6,6 +6,17 @@ Gain the **job-ready skills** for an entry-level data analyst role through this 
 
 Power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
 
+What you will learn
+
+
+-Demonstrate proficiency in using spreadsheets and utilizing Excel to perform a variety of data analysis tasks like data wrangling and data mining
+
+-Create various charts and plots in Excel & work with IBM Cognos Analytics to build dashboards. Visualize data using Python libraries like Matplotlib
+
+-Develop working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services
+
+-Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
+
 ---
 
 ## 🥇 Professional Certificate
