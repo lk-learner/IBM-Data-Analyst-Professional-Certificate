@@ -6,7 +6,7 @@ Gain the **job-ready skills** for an entry-level data analyst role through this 
 
 Power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
 
-What you will learn :
+#### What you will learn :
 
 
 - Demonstrate proficiency in using spreadsheets and utilizing Excel to perform a variety of data analysis tasks like data wrangling and data mining
@@ -17,7 +17,7 @@ What you will learn :
 
 - Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
 
-Applied Learning Project :
+#### Applied Learning Project :
 
 Throughout the program, you’ll complete hands-on projects and labs and gain a firm grasp on the required technical skills to effectively gather, wrangle, mine, and visualize data, as well as the soft skills for working with stakeholders and storytelling with data to engage your audience.
 Projects
