@@ -70,7 +70,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
   
-  #### What you will learn : 
+#### What you will learn : 
   
 - Describe the fundamentals of spreadsheet applications 
 
@@ -87,8 +87,18 @@ This course is designed to provide you with basic working knowledge for using Ex
 
 - [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
 
-This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
+This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. Begin the process of telling a story with your data by creating the many types of charts that are available in spreadsheets like Excel. Explore the different tools of a spreadsheet, such as the important pivot function and the ability to create dashboards and learn how each one has its own unique property to transform your data. Continue to gain valuable experience by becoming familiar with the popular analytics tool - IBM Cognos Analytics - to create interactive dashboards.
+  
+#### What you will learn : 
+  
+- Create basic charts and pivot charts in Excel.
 
+- Explain the important role charts play in telling a data-driven story. 
+
+- Construct advanced charts and visualizations.
+
+- Build dashboards using Excel and Cognos Analytics.
+  
 <p align="center">
 <img src="/certificate/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos-1.png" width=60% height=60%>
 
