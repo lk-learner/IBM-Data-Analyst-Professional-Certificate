@@ -123,7 +123,19 @@ This introduction to Python course will take you from zero to programming in Pyt
 
 - [X] [__Course-5 : Python Project for Data Science__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
 
-This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
+This mini-course is intended to for you to demonstrate foundational Python skills for working with data. This course primarily involves completing a project in which you will assume the role of a Data Scientist or a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends. 
+
+You will perform specific data science and data analytics tasks such as extracting data, web scraping, visualizing data and creating a dashboard. This project will showcase your proficiency with Python and using libraries such as Pandas and Beautiful Soup within a Jupyter Notebook. Upon completion you will have an impressive project to add to your job portfolio. 
+  
+ #### What you will learn : 
+  
+- Play the role of a Data Scientist / Data Analyst working on a real project.
+
+- Demonstrate your Skills in Python - the language of choice for Data Science and Data Analysis. 
+
+- Apply Python fundamentals, Python data structures, and working with data in Python.
+
+- Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook. 
 
 <p align="center">
 <img src="/certificate/Python%20Project%20for%20Data%20Science%20AI-1.png" width=60% height=60%>
