@@ -1,4 +1,4 @@
-# Python for Data Analysis, API & Developement <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# Course 4 : Python for Data Science, API & Developement <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## About this Course
 
