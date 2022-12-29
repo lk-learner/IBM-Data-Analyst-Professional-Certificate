@@ -173,15 +173,29 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 
 - [x] [__Course-7 : Data Analysis with Python__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
 
-Learn how to analyze data using Python. Topics covered:
+Analyzing data with Python is an essential skill for Data Scientists and Data Analysts. This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
-1) Importing Datasets
-2) Cleaning the Data
-3) Data frame manipulation
-4) Summarizing the Data
-5) Building machine learning Regression models
-6) Building data pipelines
+Topics covered include:  
+- collecting and importing data 
+- cleaning, preparing & formatting data 
+- data frame manipulation 
+- summarizing data 
+- building machine learning regression models 
+- model refinement 
+- creating data pipelines 
 
+You will learn how to import data from multiple sources, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations. You will then predict future trends from data by developing linear, multiple, polynomial regression models & pipelines and learn how to evaluate them.  
+  
+#### What you will learn : 
+  
+- Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data
+
+- Perform exploratory data analysis and apply analytical techniques to real-word datasets using libraries such as Pandas, Numpy and Scipy
+
+- Manipulate data using dataframes, summarize data, understand data distribution, perform correlation and create data pipelines
+
+- Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
+ 
 <p align="center">
 <img src="/certificate/Data%20Analysis%20with%20Python-1.png" width=60% height=60%>
 
