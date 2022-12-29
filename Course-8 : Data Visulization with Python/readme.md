@@ -20,7 +20,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 
 - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
-## Assets
+## Solutions
 
 * ### **Introduction to Matplotlib and Line Plots**
 <p align="center">
