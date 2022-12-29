@@ -1,4 +1,4 @@
-# Data Visualization Dashboards with Excel and Cognos <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# Course-3 : Data Visualization and Dashboards with Excel and Cognos <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## About this Course
 
