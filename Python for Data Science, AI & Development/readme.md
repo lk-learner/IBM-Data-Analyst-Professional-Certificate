@@ -2,9 +2,20 @@
 
 ## About this Course
 
-This course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules, and create a final project to demonstrate your new skills. 
-
 By the end of this course, you’ll feel comfortable creating basic programs, working with data, and solving real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, and develop skills to help advance your career. 
+Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher.  
+
+This introduction to Python course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn about Python basics and the different data types. You will familiarize yourself with Python Data structures like List and Tuples, as well as logic concepts like conditions and branching. You will use Python libraries such as Pandas, Numpy & Beautiful Soup. You’ll also use Python to perform tasks such as data collection and web scraping with APIs.
+  
+#### What you will learn : 
+  
+- Describe Python Basics including Data Types, Expressions, Variables, and Data Structures.
+
+- Apply Python programming logic using Branching, Loops, Functions, Objects & Classes.
+
+- Demonstrate proficiency in using Python libraries such as Pandas, Numpy, and Beautiful Soup.
+
+- Access web data using APIs and web scraping from Python in Jupyter Notebooks.   
 
 ## Modules
 
