@@ -69,6 +69,17 @@ This course presents a gentle introduction into the concepts of data analysis, t
 - [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
+  
+  #### What you will learn : 
+  
+- Describe the fundamentals of spreadsheet applications 
+
+- Perform basic spreadsheet tasks including navigation, data entry, and using formulas.
+
+- Employ data quality techniques to import and clean data in Excel.
+
+- Analyze data in spreadsheets by using filtering, sorting, look-up functions, and pivot tables.
+  
 
 <p align="center">
 <img src="/certificate/Excel%20Basic%20for%20Data%20Analysis-1.png" width=60% height=60%>
