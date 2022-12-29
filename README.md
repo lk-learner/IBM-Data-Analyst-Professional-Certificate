@@ -17,6 +17,25 @@ What you will learn :
 
 - Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
 
+Applied Learning Project :
+
+Throughout the program, you’ll complete hands-on projects and labs and gain a firm grasp on the required technical skills to effectively gather, wrangle, mine, and visualize data, as well as the soft skills for working with stakeholders and storytelling with data to engage your audience.
+Projects
+
+Import, clean, and analyze fleet vehicle inventory with Excel pivot tables.
+
+Use car sales key performance indicator (KPI) data to create an interactive dashboard with visualizations.
+
+Extract and graph financial data with the Pandas data analysis Python library.
+
+Use SQL to query census, crime, and school demographic data sets.
+
+Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries.
+
+Create a dynamic Python dashboard to monitor, report, and improve US domestic flight reliability.
+
+At the end of the program, you complete a real-world capstone project specifically designed to showcase your newly learned data analyst skills.
+
 ---
 
 ## 🥇 Professional Certificate
