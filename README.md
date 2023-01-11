@@ -68,7 +68,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 <p align="center">
 <img src="/certificate/Intro%20to%20Data%20Analysis-1.png" width=60% height=60%>
 
-- [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-2%20:%20Excel%20Basics%20for%20Data%20Analysis)
 
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
   
