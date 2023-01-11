@@ -66,7 +66,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 - Identify key elements in the Data Analytics process by analyzing a business case study and its data set. 
 
 <p align="center">
-<img src="/Lakshmi%Kadali%Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-1-Coursera%X5PWECG36MRX.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-1-Coursera X5PWECG36MRX.png" width=60% height=60%>
 
 - [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-2%20:%20Excel%20Basics%20for%20Data%20Analysis)
 
