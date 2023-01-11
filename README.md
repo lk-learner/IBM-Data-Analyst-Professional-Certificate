@@ -173,7 +173,7 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 <p align="center">
 <img src="/certificate/Database%20SQL%20Data%20Science-1.png" width=60% height=60%>
 
-- [x] [__Course-7 : Data Analysis with Python__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [x] [__Course-7 : Data Analysis with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-7%20:%20Data%20Analysis%20with%20Python)
 
 Analyzing data with Python is an essential skill for Data Scientists and Data Analysts. This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
