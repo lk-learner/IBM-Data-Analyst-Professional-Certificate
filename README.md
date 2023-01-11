@@ -123,7 +123,7 @@ This introduction to Python course will take you from zero to programming in Pyt
 <p align="center">
 <img src="/certificate/Python%20for%20AI%2C%20Data%20Science%20Development-1.png" width=60% height=60%>
 
-- [X] [__Course-5 : Python Project for Data Science__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [X] [__Course-5 : Python Project for Data Science__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-5%20:%20Python%20Project%20for%20Data%20Science)
 
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. This course primarily involves completing a project in which you will assume the role of a Data Scientist or a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends. 
 
