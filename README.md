@@ -87,7 +87,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 <img src="/certificate/Excel%20Basic%20for%20Data%20Analysis-1.png" width=60% height=60%>
 
 
-- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-3%20:%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. Begin the process of telling a story with your data by creating the many types of charts that are available in spreadsheets like Excel. Explore the different tools of a spreadsheet, such as the important pivot function and the ability to create dashboards and learn how each one has its own unique property to transform your data. Continue to gain valuable experience by becoming familiar with the popular analytics tool - IBM Cognos Analytics - to create interactive dashboards.
   
