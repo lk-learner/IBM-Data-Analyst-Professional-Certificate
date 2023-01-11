@@ -104,7 +104,7 @@ This course covers some of the first steps in the development of data visualizat
 <p align="center">
 <img src="/certificate/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos-1.png" width=60% height=60%>
 
-- [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-4%20:%20Python%20for%20Data%20Science%2C%20AI%20%26%20Developments)
+- [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-4%20:%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
 Kickstart your learning of Python with this beginner-friendly self-paced course taught by an expert. Python is one of the most popular languages in the programming and data science world and demand for individuals who have the ability to apply Python has never been higher.  
 
