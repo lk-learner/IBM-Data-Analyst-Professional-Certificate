@@ -51,7 +51,7 @@ This credential earner has demonstrated proficiency in applying different analyt
 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
-- [x] [__Course-1 : Introduction to Data Analytics__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [x] [__Course-1 : Introduction to Data Analytics__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-1%20:%20Introduction%20to%20Data%20Analytics)
 
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
