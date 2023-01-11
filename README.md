@@ -142,7 +142,7 @@ You will perform specific data science and data analytics tasks such as extracti
 <p align="center">
 <img src="/certificate/Python%20Project%20for%20Data%20Science%20AI-1.png" width=60% height=60%>
 
-- [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-6%20:%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
 Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.  
 
