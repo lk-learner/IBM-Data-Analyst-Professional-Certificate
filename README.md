@@ -222,7 +222,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 <p align="center">
 <img src="/certificate/Data%20Visualization%20with%20Python-1.png" width=60% height=60%>
 
-- [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-9%20:%20Data%20Analyst%20Capstone%20Project)
 
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
 
