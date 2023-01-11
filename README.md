@@ -201,7 +201,7 @@ You will learn how to import data from multiple sources, clean and wrangle data,
 <p align="center">
 <img src="/certificate/Data%20Analysis%20with%20Python-1.png" width=60% height=60%>
 
-- [x] [__Course-8 : Data Visualization with Python__](https://github.com/lk-learner/IBM-data-analyst-professional/tree/main/Lakshmi%20Kadali%20Certificates)
+- [x] [__Course-8 : Data Visualization with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-8%20:%20Data%20Visulization%20with%20Python)
 
 One of the most important skills of successful data scientists and data analysts is the ability to tell a compelling story by visualizing data and findings in an approachable and stimulating way. In this course you will learn many ways to effectively visualize both small and large-scale data. You will be able to take data that at first glance has little meaning and present that data in a form that conveys insights. 
 
