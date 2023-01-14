@@ -84,7 +84,7 @@ This course is designed to provide you with basic working knowledge for using Ex
   
 
 <p align="center">
-<img src="/certificate/Excel%20Basic%20for%20Data%20Analysis-1.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-2-Coursera MH5F5DFUHM37.png" width=60% height=60%>
 
 
 - [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-3%20:%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
