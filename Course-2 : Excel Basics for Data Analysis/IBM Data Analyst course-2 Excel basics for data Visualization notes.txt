@@ -1,0 +1,195 @@
+Week-1
+
+In this lesson, you have learned: 
+
+There are several spreadsheet applications available in the marketplace; the most commonly used and fully-featured spreadsheet application is Microsoft Excel. 
+
+Spreadsheets provide several advantages over manual calculation methods and they help you keep data organized and easily accessible. 
+
+As a Data Analyst, you can use spreadsheets as a tool for your data analysis tasks. 
+
+There are several elements that make up a workbook in a spreadsheet application. 
+
+The ribbon provides access to all the features and tools required to view, enter, edit, manipulate, clean, and analyze data in Excel. 
+
+There are several ways to navigate around a worksheet and workbook in Excel. 
+
+  
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Week-2
+
+In this lesson, you have learned: 
+
+There are several features to modify views in Excel, and it is very straightforward to enter and edit data in a spreadsheet. 
+
+You can move or copy data within a worksheet or between worksheets, and you can use AutoFill to automatically enter data that is in a series or that fits a pattern. 
+
+You can format both cells and data in Excel. 
+
+A formula is made up of several component parts, and formulas can perform calculations using numbers directly or by using references to data in the worksheet. 
+
+You can use the Fill Handle in Excel to quickly copy formulas to other cells. 
+
+There are several different categories of function you can use for different purposes, and you can search for a function by name, or by category. 
+
+You can reference cells in the worksheet in your formulas by using relative, absolute, or mixed references. 
+
+You can make a formula absolute by adding a dollar symbol ($) to a cell reference. 
+
+If you get errors in your formulas, you can use the error-checking capabilities of Excel to resolve them. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Week-3
+
+In this lesson, you have learned the following information:
+
+The Five Traits of Data Quality: 
+
+Accuracy 
+
+Completeness 
+
+Reliability 
+
+Relevance 
+
+Timeliness 
+
+Importing Text:
+
+You can use the ‘Text Import Wizard’ to import data from other formats, such as plain text, or comma-separated value files. 
+
+The Three Fundamentals of Data Privacy: 
+
+Confidentiality 
+
+Collection and Use 
+
+Compliance 
+
+
+In this lesson, you have learned the following information:
+
+It’s important to remove any duplicated or inaccurate data, and it’s important to remove any empty rows in your dataset. 
+
+There are several other types of data inconsistency that you may need to resolve, in order to properly clean your data:  
+
+Change the case of text
+
+Fix date formatting errors
+
+Trim whitepace from your data  
+
+You can use the Flash Fill and Text to Columns features in Excel to manipulate and standardize your data, and functions can also be used to help manipulate and standardize your data. 
+
+  
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Week-4
+
+In this lesson, you have learned the following information: 
+
+Before shaping your data, you need to visualize the final output, and ask yourself the following questions: 
+
+How big is the dataset? 
+
+What type of filtering is required to find the necessary information? 
+
+How should the data be sorted? 
+
+What type of calculations are needed? 
+
+There are several advantages to formatting your data as a table: 
+
+Automatic calculations even when filtering 
+
+Column headings never disappear 
+
+Banded rows to make reading easier 
+
+Tables will automatically expand when adding new rows 
+
+The most basic way of shaping your data is to sort and filter it:
+
+Sorting data helps you to organize it by a specified criteria, such as numerically, alphabetically, or chronologically. 
+
+Filtering our data makes it easier to control what data is displayed and what is hidden, based on filtered fields. 
+
+Excel Functions:
+
+Functions in Excel are arranged into multiple categories; including mathematical, statistical, logical, financial, and date and time-based. 
+
+Common functions for a data analyst include IF, IFS, COUNTIF, SUMIF, VLOOKUP, HLOOKUP 
+
+ 
+
+In this lesson, you have learned the following information: 
+
+Pivot Tables:
+
+To obtain usable and presentable insights into your data you need to use Pivot Tables. 
+
+Pivot tables provide a simple and quick way to summarize and analyze data, to observe trends and patterns in your data and to make comparisons of your data. 
+
+Pivot tables are dynamic, so as you change and add data to the original dataset on which the pivot table is based, the analysis and summary information changes too. 
+
+A Data Analyst can use pivot tables to draw useful and relevant conclusions about, and create insights into, an organization’s data in order to present those insights to interested parties within the company. 
+
+Use this Pivot Table checklist to ensure your data is in a fit state to make a Pivot Table: 
+
+Format your data as a table for best results.
+
+Ensure column headings are correct, and there is only one header row, as these column headings become the field names in a Pivot Table.
+
+Remove any blank rows and columns, and try to eliminate blank cells also.
+
+Ensure value fields are formatted as numbers, and not text, and ensure date fields are formatted as dates, and not text.
+
+Arranging Pivot Tables with Filters and Recommended Tables:
+
+You use the Pivot Table Fields pane to add and arrange data fields in your pivot table. 
+
+Recommended Pivot Tables are a list of suggested different combinations of data that could be used when creating a Pivot Table, based on the data selected in the worksheet. 
+
+Filters and Slicers:
+
+Slicers are on-screen graphical filter objects that enable you to filter your data using buttons, which makes it easier to perform quick filtering of your pivot table data. 
+
+Timelines are another type of filter tool that enable you to filter specifically on date-related data in your pivot table. This is a much quicker and more effective way of dynamically filtering by date, rather than having to create and adjust filters on your date columns. 
+---------------------------------------------------------------------------------------------------------------------------------------------
+LABS :
+
+Hands-on Lab 1: Introduction to Excel for the web
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwMSUyMC0lMjBBY2Nlc3MlMjB0byUyMHRoZSUyMGVudmlyb25tZW50JTIwLSUyMEV4Y2VsJTIwZm9yJTIwdGhlJTIwd2ViL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzIyMzAxNjZ9.w1vmdNzJi-nLP71F5cpGRgf3R0-Q2iBQPOvSJDqrkrQ
+
+Hands-on Lab 2: Spreadsheet Basics
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwMiUyMC0lMjBTcHJlYWRzaGVldCUyMGJhc2ljcy9pbnN0cnVjdGlvbnMubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNjcyMjMwNDEzfQ.gMF112X6uRC7YvpGDHqb7BAcpatW8bHu5cf6xLb0_r8
+
+Hands-on Lab 3: Entering and Formatting Data
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwMyUyMC0lMjBFbnRlcmluZyUyMGFuZCUyMEZvcm1hdHRpbmclMjBEYXRhL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzIyMzAzMzF9.odJiunmZFm4VbhVW52YZrRtN7uVp9OruyD6TnSFuEAw
+
+Hands-on Lab 4: Simple Use of Functions
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwNCUyMC0lMjBTaW1wbGUlMjB1c2UlMjBvZiUyMGZ1bmN0aW9ucy9pbnN0cnVjdGlvbnMubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNjcyMjMwNDgzfQ.UA4zQMFcptzSTM7p625qKMGeRcojraoKJNyV185hMCA
+
+Hands-on Lab 5: Cleaning Data
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwNSUyMC0lMjBDbGVhbmluZyUyMERhdGEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIzMDU2Mn0.pluDbiF4OrL108XT1Xa3apNx2WXdVOl9b_1aDDW4iF4
+
+Hands-on Lab 6: Filtering and Sorting Data using Functions for Data Analysis
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwNiUyMC0lMjBGaWx0ZXJpbmclMjBhbmQlMjBTb3J0aW5nJTIwRGF0YSUyMHVzaW5nJTIwRnVuY3Rpb25zJTIwZm9yJTIwRGF0YSUyMEFuYWx5c2lzL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzIyMzA2NzB9.rqcIiVqOhyRZGvSy7Isri6YBcaCUGsyUMRQC64YWeb4
+
+Hands-on Lab 7: Using Pivot Tables
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwNyUyMC0lMjBVc2luZyUyMFBpdm90JTIwVGFibGVzL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzIyMzA3NDd9.fcUKHhZplv5M0V-tg5FM9EhS4PxAwBuksGqhsOy9k1Q
+
+
+
+Peer-Graded Assignment: Final Assignment – Part 1
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIwMTYzOX0.9TjMi9IFi3e9W_d-E9fEYZiniRRtcidwjQKJlSlJUXA
+
+Peer-Graded Assignment: Final Assignment – Part 2
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREEwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDIvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjIzMDgyOX0.5KNbjkFaS1kZXvRNpwaGwHA5B2bnVqOdRtydVFZjd3E
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
