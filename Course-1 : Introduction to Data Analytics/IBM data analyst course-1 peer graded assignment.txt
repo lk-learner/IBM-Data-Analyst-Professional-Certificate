@@ -1,0 +1,67 @@
+1.  List at least 5 (five) data points that are required for the analysis and detection of a credit card fraud. (3 marks)
+
+
+Data points that are rquired for the analysis and detection of a credit card fraud are:
+1.IP address.
+2.Shipping address
+3.User id of the card holder
+4.Location
+5.Transaction date
+6.Transaction time
+7.Transaction value
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+2.  Identify 3 (three) errors/issues that could impact the accuracy of your findings, 
+based on a data table provided. (3 marks)
+
+
+Following are errors/issues that could impact the accuracy of findings, based on the above data table are: 
+1.Noticed some IP address values missing
+2.There is missing transaction value
+3.Date format looks inconsistent to me.
+4.Missing values in Age column.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Identify 2 (two) anomalies, or unexpected behaviors, 
+that would lead you to believe the transaction may be suspect, based on a data table provided. (2 marks)
+
+
+Anomalies or unexpected behaviors, that I have identified are:
+1.I see higher transaction value where shipping address has been changed from home address to p.o.box  numbers
+2.shipping address changes when IP address changes.
+3.Noticed higher transaction value and increased frequency of transactions.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4. Briefly explain your key take-away from the provided data visualization chart. (1 mark)
+
+
+My key-take-away from the above  Visualization :
+It shows the transaction values per transaction for johnp, davidg, ellend users. 
+For users, johnp and eliend, there is sharp rise in the transaction values which might be fraud.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+5. Identify the type of analysis that you are performing when you are analyzing historical credit card 
+data to understand what a fraudulent transaction looks like. [Hint: The four types of Analytics include: 
+Descriptive, Diagnostic, Predictive, Prescriptive] (1 mark)
+
+
+The type of analysis is "Descriptive analytics".
+When you are analyzing historical credit card data, we can find anomalies by looking at what happened in the past transaction, and also considering mean and mode of features. 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
