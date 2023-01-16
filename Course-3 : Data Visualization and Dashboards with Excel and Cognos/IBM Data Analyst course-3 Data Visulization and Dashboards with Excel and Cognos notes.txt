@@ -1,0 +1,80 @@
+Week-1
+
+In this lesson you have learned:
+
+The importance of charts and how they are able to shape our data.
+
+How to use visualizations to provide meaningful information.
+
+How to use Excel to create line, pie, and bar charts.
+
+About Excel pivot tables in creating area and column charts using the PivotChart feature. 
+
+How to use a pivot table or pivot chart to filter data and how to expand and collapse data levels.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Week-2
+
+In this lesson you have learned:
+
+How to create treemaps, scatter charts, and histograms in Excel.
+
+About the different charts available in Excel, and how each one is different in displaying data.
+
+How to create filled map charts and sparklines in Excel.
+
+
+In this lesson you have learned:
+
+The role of dashboarding and why it is an important skill as a data analyst.
+
+How to setup and configure a simple dashboard in Excel.
+
+The importance of dashboards in telling a data-driven story.
+
+      
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Week-3
+
+In this lesson you have learned:
+
+How to register and navigate around Cognos Analytics.
+
+How to use Cognos Analytics to create a simple dashboard.
+
+About the value of Cognos Analytics and its advanced capabilities, such as creating calculations and leveraging navigation paths.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LABS:
+
+Hands-on Lab 1: Creating Basic Charts
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwMSUyMC0lMjBDcmVhdGluZyUyMEJhc2ljJTIwQ2hhcnRzL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzE1OTg4MDR9.eRiI9NU3uZBgrefRFi0auvEMFLxK3lyBC9yrKnhP0N4
+
+Hands-on Lab 2: Creating Advanced Charts
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwMiUyMC0lMjBDcmVhdGluZyUyMEFkdmFuY2VkJTIwQ2hhcnRzJTIwL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzE1OTg5MDd9.-mqoZ2MqWK5WHGgK5bF-G_c9x7ZzYSGFny9gPVnjL_g
+
+Hands-on Lab 3: Creating a Simple Dashboard with Excel
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwMyUyMC0lMjBDcmVhdGluZyUyMGElMjBTaW1wbGUlMjBEYXNoYm9hcmQlMjB3aXRoJTIwRXhjZWwvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTU5ODk4NH0.QyyJmuP5zzAxAvUR7Jhhoi6k1AVntpPsJH5FK65dSFU
+
+Hands-on Lab 4: Getting Started with Cognos Analytics
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwNCUyMC0lMjBHZXR0aW5nJTIwU3RhcnRlZCUyMHdpdGglMjBDb2dub3MlMjBBbmFseXRpY3MvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MjAzMTk5NX0.FEivmUipxguf7RX2oRoF6SnsLp5s43d42m0yv_1bcfU
+
+Hands-on Lab 5: Different Methods for Creating Dashboard Visualizations with Cognos Analytics
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwNSUyMC0lMjBEaWZmZXJlbnQlMjBNZXRob2RzJTIwZm9yJTIwQ3JlYXRpbmclMjBEYXNoYm9hcmQlMjBWaXN1YWxpemF0aW9ucyUyMHdpdGglMjBDb2dub3MlMjBBbmFseXRpY3MvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTU5OTA3MH0.KoN0d_9w4AcwnzEQMJI_bag-F6qV_6o1P2U5cTid6xA
+
+Hands-on Lab 6: Advanced Dashboard Capabilities in Cognos Analytics
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvTGFiJTIwNiUyMC0lMjAlMjBBZHZhbmNlZCUyMERhc2hib2FyZCUyMENhcGFiaWxpdGllcyUyMGluJTIwQ29nbm9zJTIwQW5hbHl0aWNzL2luc3RydWN0aW9ucy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzE1OTg3MjN9.fi-AmniRC88ZaULgkuiOvzROFZNtCYej8GMctjbuJzY
+
+Peer-Graded Assignment: Final Assignment – Part 1
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDEvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTU5ODU1NX0.zOnJssZ2ix6WBxvkJCqCAyKxM6xOorlxtAtcEO9SvjU
+
+Peer-Graded Assignment: Final Assignment – Part 2
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTMwRU4tU2tpbGxzTmV0d29yay9IYW5kcy1vbiUyMExhYnMvUGVlciUyMEdyYWRlZCUyMEFzc2lnbm1lbnQlMjAtJTIwUGFydCUyMDIvaW5zdHJ1Y3Rpb25zLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3MTUzMzQ2NX0.5-sseC3q4Pcahc4AZVzg0oVhPWdfAu-fvpUIgPQIt7A
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
