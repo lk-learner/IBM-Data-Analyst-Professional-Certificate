@@ -140,7 +140,7 @@ You will perform specific data science and data analytics tasks such as extracti
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook. 
 
 <p align="center">
-<img src="/certificate/Python%20Project%20for%20Data%20Science%20AI-1.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-5-Coursera 8CZQQ5Z94D6U.png" width=60% height=60%>
 
 - [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-6%20:%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
