@@ -199,7 +199,7 @@ You will learn how to import data from multiple sources, clean and wrangle data,
 - Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
  
 <p align="center">
-<img src="/certificate/Data%20Analysis%20with%20Python-1.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-7-Coursera PFEJPUQDUBW2.png" width=60% height=60%>
 
 - [x] [__Course-8 : Data Visualization with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-8%20:%20Data%20Visulization%20with%20Python)
 
