@@ -53,39 +53,6 @@ You will learn how to import data from multiple sources, clean and wrangle data,
   * Refining the model by performing a polynomial transform on the data
   * Analyzing the model performance 
 
-### Solutions:
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q1.PNG">
+20Analysis%20With%20Python/IMG/Q4.PNG">
 </p>
 
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q2.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q3.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q4.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q5.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q6.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q7.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q8.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q9.PNG">
-</p>
