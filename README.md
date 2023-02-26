@@ -171,7 +171,7 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 - Build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins. 
 
 <p align="center">
-<img src="/certificate/Database%20SQL%20Data%20Science-1.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-6-Coursera 7WPY8PG8AK3F.png" width=60% height=60%>
 
 - [x] [__Course-7 : Data Analysis with Python__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-7%20:%20Data%20Analysis%20with%20Python)
 
