@@ -53,6 +53,5 @@ You will learn how to import data from multiple sources, clean and wrangle data,
   * Refining the model by performing a polynomial transform on the data
   * Analyzing the model performance 
 
-20Analysis%20With%20Python/IMG/Q4.PNG">
-</p>
+
 
