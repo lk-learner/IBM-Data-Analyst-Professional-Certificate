@@ -40,19 +40,4 @@ This folder contains data files and a Jupyter Notebook script that demonstrates 
 * _Chicago_Public_Schools.csv_ shows all school level performance data used to create CPS School Report Cards for the 2011-2012 school year. For more detailed information, see the [data description](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t).  
 * _Chicago_Datasets_PeerAssign-v5.ipynb_ contains the script with ipython-sql code, which is used to query the datasets after they were loaded into a Db2 database on IBM Cloud.
 
-## Solutions
-<p align="center">
-  <img width="100%" height="100%" src="/IMG/Q1.PNG">
-</p>
 
-<p align="center">
-  <img width="100%" height="100%" src="/IMG/Q2.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/IMG/Q3.PNG">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="/IMG/Q4.PNG">
-</p>
