@@ -220,7 +220,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
 <p align="center">
-<img src="/certificate/Data%20Visualization%20with%20Python-1.png" width=60% height=60%>
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-8-Coursera ZR3V8E8RCQQD.png" width=60% height=60%>
 
 - [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/lk-learner/IBM-data-analyst-professional-certificate/tree/main/Course-9%20:%20Data%20Analyst%20Capstone%20Project)
 
