@@ -38,3 +38,7 @@ You will undertake the tasks of collecting data from multiple sources, performin
 ### **Module 6:** Presentation of Findings
 - Final Presentation
 
+---
+
+<p align="center">
+<img src="/Lakshmi%20Kadali%20Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-9-Coursera AEGL53TV4YBG.png" width=60% height=60%>
